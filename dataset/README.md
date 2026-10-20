@@ -1,0 +1,5 @@
+# Sample Video Dataset
+
+This folder contains a sample drowsiness video
+used for testing the driver impairment detection
+project in Google Colab.
