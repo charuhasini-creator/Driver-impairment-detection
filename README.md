@@ -71,4 +71,4 @@ This project is an educational software prototype, not a certified driver-monito
 Academic / Educational Prototype
 
 ## Open in Colab
-https://colab.research.google.com/drive/1rQHgT3pzdl7Aff0UVgXafio_6Cgmdqnz?usp=sharing
+[https://colab.research.google.com/drive/1rQHgT3pzdl7Aff0UVgXafio_6Cgmdqnz?usp=sharing](https://colab.research.google.com/drive/1rQHgT3pzdl7Aff0UVgXafio_6Cgmdqnz?usp=sharing)
